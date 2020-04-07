@@ -22,7 +22,7 @@ h6 {
 
 form {
   background-color: white;
-  border-color: blue;
+  border-color: slateblue;
   border-radius: 12px;
   font-size: 12px;
   border-style: dotted;
@@ -89,7 +89,7 @@ button {
 
 hr {
   border-style: dashed;
-  color: blue;
+  color: slateblue;
 }
 
 
