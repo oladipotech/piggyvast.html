@@ -1,0 +1,103 @@
+body {
+  background-color: #ADD8E6;
+}
+
+img {
+  width: 200px;
+  position: relative;
+  height: 40px;
+  top: 20px;
+  left: 100px;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+
+h6 {
+  text-align: center;
+}
+
+form {
+  background-color: white;
+  border-color: blue;
+  border-radius: 12px;
+  font-size: 12px;
+  border-style: dotted;
+  margin: 0 auto;
+  width: 300px;
+}
+
+fieldset {
+  border: none;
+}
+
+label {
+  color:gray;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 15px 22px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border-style: groove;
+}
+
+
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border-style: groove;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border-style: groove;
+}
+
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border-style: groove;
+}
+
+button {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: blue;
+  border-radius: 10px;
+  border-style:groove;
+  font-size: 20px;
+  color: white;
+}
+
+hr {
+  border-style: dashed;
+  color: blue;
+}
+
+
+
+
+
+
+
+
+
+
